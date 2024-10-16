@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint --quiet \"Days/**/*.{js,ts}\"",
-    "format": "prettier --write \"Days/**/*.{js,ts}\"",
+    "format": "prettier --write \"**/*.{js,ts}\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
