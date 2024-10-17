@@ -9,4 +9,4 @@ console.log(count());
 console.log(count());
 console.log(count());
 
-// Time Complexity O(1)
+// Time & Space Complexity O(1)

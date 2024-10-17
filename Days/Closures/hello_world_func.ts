@@ -7,4 +7,4 @@ const createHelloWorld = (): ((...args: any[]) => string) => {
 const f = createHelloWorld();
 console.log(f());
 
-// Time Complexity O(1)
+// Time & Space Complexity O(1)

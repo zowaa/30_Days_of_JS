@@ -19,4 +19,4 @@ const expect = (num: number): expectType => {
 
 console.log(expect(5).notToBe(5));
 
-// Time complexity: O(1)
+// Time & Space Complexity O(1)
